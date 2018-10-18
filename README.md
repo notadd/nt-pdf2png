@@ -1,5 +1,6 @@
 # nt-pdf2png
-pdf 转 png 方案
+
+pdf 转 png 方案，尽在用户访问时转换，大大节省了服务器资源，秒开。
 
 ### ubuntu 
 
