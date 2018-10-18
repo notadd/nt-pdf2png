@@ -20,7 +20,7 @@ brew install imagemagick ghostscript poppler
 
 1.  修改配置文件
 
-一般在： /etc/ImageMagick-6/policy.xml
+一般在： `/etc/ImageMagick-6/policy.xml`
 
 将文件末尾三行改为
 
