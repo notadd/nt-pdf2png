@@ -1,0 +1,22 @@
+{
+  "name": "nt-pdf2png",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/notadd/nt-pdf2png"
+  },
+  "bugs": {
+    "url": "https://github.com/notadd/nt-pdf2png/issues"
+  },
+  "homepage": "https://github.com/notadd/nt-pdf2png#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pdf-image": "~2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
