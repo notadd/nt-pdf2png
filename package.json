@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/notadd/nt-pdf2png#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "pdf-image": "~2.0.0"
   },
   "devDependencies": {},
